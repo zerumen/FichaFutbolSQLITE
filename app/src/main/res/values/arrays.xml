@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Alevin</item>
+        <item>Juvenil</item>
+        <item>Infantil</item>
+        <item>Cadete</item>
+        <item>Profesional</item>
+
+    </string-array>
+</resources>
